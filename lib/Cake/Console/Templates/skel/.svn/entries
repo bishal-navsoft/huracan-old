@@ -1,0 +1,132 @@
+10
+
+dir
+48
+http://192.168.0.215:9880/huracan/lib/Cake/Console/Templates/skel
+http://192.168.0.215:9880/huracan
+
+
+
+2013-04-09T11:19:15.386250Z
+48
+debi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+544bc184-6a8c-4bed-bd28-433ec6de138a
+
+Test
+dir
+
+Locale
+dir
+
+Model
+dir
+
+tmp
+dir
+
+webroot
+dir
+
+Console
+dir
+
+Controller
+dir
+
+Config
+dir
+
+Lib
+dir
+
+View
+dir
+
+.htaccess
+file
+53
+
+
+
+2012-08-04T11:30:10.000000Z
+a2a9efe935decfd5f498bf0d83075574
+2013-04-09T11:20:07.646643Z
+53
+debi
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+140
+
+index.php
+file
+53
+
+
+
+2012-11-03T07:28:03.000000Z
+d10e8e63694a56ab249a9d60cbdbfc4f
+2013-04-09T11:20:07.646643Z
+53
+debi
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+648
+
+Vendor
+dir
+
+Plugin
+dir
+

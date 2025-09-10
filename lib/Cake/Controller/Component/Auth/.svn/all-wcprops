@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/huracan/!svn/ver/92/lib/Cake/Controller/Component/Auth
+END
+BaseAuthenticate.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/huracan/!svn/ver/94/lib/Cake/Controller/Component/Auth/BaseAuthenticate.php
+END
+ActionsAuthorize.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/huracan/!svn/ver/94/lib/Cake/Controller/Component/Auth/ActionsAuthorize.php
+END
+ControllerAuthorize.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/huracan/!svn/ver/94/lib/Cake/Controller/Component/Auth/ControllerAuthorize.php
+END
+DigestAuthenticate.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/huracan/!svn/ver/94/lib/Cake/Controller/Component/Auth/DigestAuthenticate.php
+END
+BasicAuthenticate.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/huracan/!svn/ver/94/lib/Cake/Controller/Component/Auth/BasicAuthenticate.php
+END
+FormAuthenticate.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/huracan/!svn/ver/94/lib/Cake/Controller/Component/Auth/FormAuthenticate.php
+END
+BaseAuthorize.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/huracan/!svn/ver/94/lib/Cake/Controller/Component/Auth/BaseAuthorize.php
+END
+CrudAuthorize.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/huracan/!svn/ver/94/lib/Cake/Controller/Component/Auth/CrudAuthorize.php
+END

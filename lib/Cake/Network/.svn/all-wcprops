@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/huracan/!svn/ver/38/lib/Cake/Network
+END
+CakeRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/huracan/!svn/ver/106/lib/Cake/Network/CakeRequest.php
+END
+CakeSocket.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/huracan/!svn/ver/106/lib/Cake/Network/CakeSocket.php
+END
+CakeResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/huracan/!svn/ver/106/lib/Cake/Network/CakeResponse.php
+END

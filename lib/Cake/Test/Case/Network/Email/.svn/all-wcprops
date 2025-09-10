@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/huracan/!svn/ver/134/lib/Cake/Test/Case/Network/Email
+END
+CakeEmailTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/huracan/!svn/ver/135/lib/Cake/Test/Case/Network/Email/CakeEmailTest.php
+END
+SmtpTransportTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/huracan/!svn/ver/135/lib/Cake/Test/Case/Network/Email/SmtpTransportTest.php
+END
+DebugTransportTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/huracan/!svn/ver/135/lib/Cake/Test/Case/Network/Email/DebugTransportTest.php
+END

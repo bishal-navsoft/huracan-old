@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/huracan/!svn/ver/92/lib/Cake/Controller/Component/Acl
+END
+IniAcl.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/huracan/!svn/ver/93/lib/Cake/Controller/Component/Acl/IniAcl.php
+END
+AclInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/huracan/!svn/ver/93/lib/Cake/Controller/Component/Acl/AclInterface.php
+END
+DbAcl.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/huracan/!svn/ver/93/lib/Cake/Controller/Component/Acl/DbAcl.php
+END
+PhpAcl.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/huracan/!svn/ver/93/lib/Cake/Controller/Component/Acl/PhpAcl.php
+END

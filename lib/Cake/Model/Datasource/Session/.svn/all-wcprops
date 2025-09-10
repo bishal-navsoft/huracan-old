@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/huracan/!svn/ver/103/lib/Cake/Model/Datasource/Session
+END
+CakeSessionHandlerInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/huracan/!svn/ver/105/lib/Cake/Model/Datasource/Session/CakeSessionHandlerInterface.php
+END
+CacheSession.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/huracan/!svn/ver/105/lib/Cake/Model/Datasource/Session/CacheSession.php
+END
+DatabaseSession.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/huracan/!svn/ver/105/lib/Cake/Model/Datasource/Session/DatabaseSession.php
+END

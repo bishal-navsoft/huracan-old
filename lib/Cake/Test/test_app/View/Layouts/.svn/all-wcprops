@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/huracan/!svn/ver/237/lib/Cake/Test/test_app/View/Layouts
+END
+flash.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/huracan/!svn/ver/238/lib/Cake/Test/test_app/View/Layouts/flash.ctp
+END
+multi_cache.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/huracan/!svn/ver/238/lib/Cake/Test/test_app/View/Layouts/multi_cache.ctp
+END
+cache_layout.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/huracan/!svn/ver/238/lib/Cake/Test/test_app/View/Layouts/cache_layout.ctp
+END
+ajax.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/huracan/!svn/ver/238/lib/Cake/Test/test_app/View/Layouts/ajax.ctp
+END
+default.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/huracan/!svn/ver/238/lib/Cake/Test/test_app/View/Layouts/default.ctp
+END
+ajax2.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/huracan/!svn/ver/238/lib/Cake/Test/test_app/View/Layouts/ajax2.ctp
+END
+cache_empty_sections.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/huracan/!svn/ver/238/lib/Cake/Test/test_app/View/Layouts/cache_empty_sections.ctp
+END

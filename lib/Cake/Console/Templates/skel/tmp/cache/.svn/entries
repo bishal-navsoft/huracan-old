@@ -1,0 +1,37 @@
+10
+
+dir
+253
+http://192.168.0.215:9880/huracan/lib/Cake/Console/Templates/skel/tmp/cache
+http://192.168.0.215:9880/huracan
+
+
+
+2013-04-09T12:06:46.997809Z
+253
+debi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+544bc184-6a8c-4bed-bd28-433ec6de138a
+
+persistent
+dir
+
+models
+dir
+
+views
+dir
+

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/huracan/!svn/ver/144/lib/Cake/Test/test_app/Model
+END
+PersisterTwo.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/huracan/!svn/ver/225/lib/Cake/Test/test_app/Model/PersisterTwo.php
+END
+AppModel.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/huracan/!svn/ver/225/lib/Cake/Test/test_app/Model/AppModel.php
+END
+Comment.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/huracan/!svn/ver/225/lib/Cake/Test/test_app/Model/Comment.php
+END
+PersisterOne.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/huracan/!svn/ver/225/lib/Cake/Test/test_app/Model/PersisterOne.php
+END
+Post.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/huracan/!svn/ver/225/lib/Cake/Test/test_app/Model/Post.php
+END

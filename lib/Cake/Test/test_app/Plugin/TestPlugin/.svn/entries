@@ -1,0 +1,58 @@
+10
+
+dir
+228
+http://192.168.0.215:9880/huracan/lib/Cake/Test/test_app/Plugin/TestPlugin
+http://192.168.0.215:9880/huracan
+
+
+
+2013-04-09T11:59:02.995000Z
+228
+debi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+544bc184-6a8c-4bed-bd28-433ec6de138a
+
+Locale
+dir
+
+Model
+dir
+
+webroot
+dir
+
+Console
+dir
+
+Controller
+dir
+
+Utility
+dir
+
+Config
+dir
+
+Lib
+dir
+
+View
+dir
+
+Vendor
+dir
+

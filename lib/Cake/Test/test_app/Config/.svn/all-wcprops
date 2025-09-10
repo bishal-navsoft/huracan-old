@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/huracan/!svn/ver/144/lib/Cake/Test/test_app/Config
+END
+var_test2.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/huracan/!svn/ver/145/lib/Cake/Test/test_app/Config/var_test2.php
+END
+nested.ini
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/huracan/!svn/ver/145/lib/Cake/Test/test_app/Config/nested.ini
+END
+acl.ini.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/huracan/!svn/ver/145/lib/Cake/Test/test_app/Config/acl.ini.php
+END
+empty.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/huracan/!svn/ver/145/lib/Cake/Test/test_app/Config/empty.php
+END
+acl.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/huracan/!svn/ver/145/lib/Cake/Test/test_app/Config/acl.php
+END
+htmlhelper_minimized.ini
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/huracan/!svn/ver/145/lib/Cake/Test/test_app/Config/htmlhelper_minimized.ini
+END
+routes.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/huracan/!svn/ver/145/lib/Cake/Test/test_app/Config/routes.php
+END
+htmlhelper_tags.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/huracan/!svn/ver/145/lib/Cake/Test/test_app/Config/htmlhelper_tags.php
+END
+var_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/huracan/!svn/ver/145/lib/Cake/Test/test_app/Config/var_test.php
+END
+no_section.ini
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/huracan/!svn/ver/145/lib/Cake/Test/test_app/Config/no_section.ini
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/huracan/!svn/ver/116/lib/Cake/Test/Case/Console/Command
+END
+BakeShellTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/huracan/!svn/ver/117/lib/Cake/Test/Case/Console/Command/BakeShellTest.php
+END
+ApiShellTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/huracan/!svn/ver/117/lib/Cake/Test/Case/Console/Command/ApiShellTest.php
+END
+CommandListShellTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/huracan/!svn/ver/117/lib/Cake/Test/Case/Console/Command/CommandListShellTest.php
+END
+AclShellTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/huracan/!svn/ver/117/lib/Cake/Test/Case/Console/Command/AclShellTest.php
+END
+TestShellTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/huracan/!svn/ver/117/lib/Cake/Test/Case/Console/Command/TestShellTest.php
+END
+SchemaShellTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/huracan/!svn/ver/117/lib/Cake/Test/Case/Console/Command/SchemaShellTest.php
+END

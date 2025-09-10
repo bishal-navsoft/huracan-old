@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/huracan/!svn/ver/38/lib/Cake/Core
+END
+App.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/huracan/!svn/ver/95/lib/Cake/Core/App.php
+END
+Configure.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/huracan/!svn/ver/95/lib/Cake/Core/Configure.php
+END
+CakePlugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/huracan/!svn/ver/95/lib/Cake/Core/CakePlugin.php
+END
+Object.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/huracan/!svn/ver/95/lib/Cake/Core/Object.php
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/huracan/!svn/ver/2/app/Config
+END
+email.php.default
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/huracan/!svn/ver/3/app/Config/email.php.default
+END
+acl.ini.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/huracan/!svn/ver/3/app/Config/acl.ini.php
+END
+bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/huracan/!svn/ver/3/app/Config/bootstrap.php
+END
+acl.php
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/huracan/!svn/ver/3/app/Config/acl.php
+END
+routes.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/huracan/!svn/ver/319/app/Config/routes.php
+END
+database.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/huracan/!svn/ver/18/app/Config/database.php
+END
+core.php
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/huracan/!svn/ver/3/app/Config/core.php
+END

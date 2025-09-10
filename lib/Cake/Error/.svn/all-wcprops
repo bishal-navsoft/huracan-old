@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/huracan/!svn/ver/38/lib/Cake/Error
+END
+exceptions.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/huracan/!svn/ver/96/lib/Cake/Error/exceptions.php
+END
+ExceptionRenderer.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/huracan/!svn/ver/96/lib/Cake/Error/ExceptionRenderer.php
+END
+ErrorHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/huracan/!svn/ver/96/lib/Cake/Error/ErrorHandler.php
+END

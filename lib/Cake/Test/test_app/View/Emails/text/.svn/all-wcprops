@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/huracan/!svn/ver/238/lib/Cake/Test/test_app/View/Emails/text
+END
+custom.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/huracan/!svn/ver/239/lib/Cake/Test/test_app/View/Emails/text/custom.ctp
+END
+default.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/huracan/!svn/ver/239/lib/Cake/Test/test_app/View/Emails/text/default.ctp
+END
+japanese.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/huracan/!svn/ver/239/lib/Cake/Test/test_app/View/Emails/text/japanese.ctp
+END
+wide.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/huracan/!svn/ver/239/lib/Cake/Test/test_app/View/Emails/text/wide.ctp
+END
+custom_helper.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/huracan/!svn/ver/239/lib/Cake/Test/test_app/View/Emails/text/custom_helper.ctp
+END

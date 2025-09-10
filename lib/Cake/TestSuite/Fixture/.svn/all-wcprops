@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/huracan/!svn/ver/248/lib/Cake/TestSuite/Fixture
+END
+CakeTestFixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/huracan/!svn/ver/249/lib/Cake/TestSuite/Fixture/CakeTestFixture.php
+END
+CakeTestModel.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/huracan/!svn/ver/249/lib/Cake/TestSuite/Fixture/CakeTestModel.php
+END
+CakeFixtureManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/huracan/!svn/ver/249/lib/Cake/TestSuite/Fixture/CakeFixtureManager.php
+END

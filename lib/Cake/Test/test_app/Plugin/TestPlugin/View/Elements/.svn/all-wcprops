@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/huracan/!svn/ver/230/lib/Cake/Test/test_app/Plugin/TestPlugin/View/Elements
+END
+translate.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/huracan/!svn/ver/231/lib/Cake/Test/test_app/Plugin/TestPlugin/View/Elements/translate.ctp
+END
+test_plugin_element.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/huracan/!svn/ver/231/lib/Cake/Test/test_app/Plugin/TestPlugin/View/Elements/test_plugin_element.ctp
+END
+plugin_element.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/huracan/!svn/ver/231/lib/Cake/Test/test_app/Plugin/TestPlugin/View/Elements/plugin_element.ctp
+END

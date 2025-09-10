@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/huracan/!svn/ver/112/lib/Cake/Test/Case/TestSuite
+END
+CakeTestFixtureTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/huracan/!svn/ver/139/lib/Cake/Test/Case/TestSuite/CakeTestFixtureTest.php
+END
+HtmlCoverageReportTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/huracan/!svn/ver/139/lib/Cake/Test/Case/TestSuite/HtmlCoverageReportTest.php
+END
+CakeTestSuiteTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/huracan/!svn/ver/139/lib/Cake/Test/Case/TestSuite/CakeTestSuiteTest.php
+END
+CakeTestCaseTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/huracan/!svn/ver/139/lib/Cake/Test/Case/TestSuite/CakeTestCaseTest.php
+END
+ControllerTestCaseTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/huracan/!svn/ver/139/lib/Cake/Test/Case/TestSuite/ControllerTestCaseTest.php
+END

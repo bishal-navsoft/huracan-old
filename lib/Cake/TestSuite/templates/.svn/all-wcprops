@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/huracan/!svn/ver/248/lib/Cake/TestSuite/templates
+END
+footer.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/huracan/!svn/ver/249/lib/Cake/TestSuite/templates/footer.php
+END
+xdebug.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/huracan/!svn/ver/249/lib/Cake/TestSuite/templates/xdebug.php
+END
+menu.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/huracan/!svn/ver/249/lib/Cake/TestSuite/templates/menu.php
+END
+phpunit.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/huracan/!svn/ver/249/lib/Cake/TestSuite/templates/phpunit.php
+END
+header.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/huracan/!svn/ver/249/lib/Cake/TestSuite/templates/header.php
+END
+missing_connection.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/huracan/!svn/ver/249/lib/Cake/TestSuite/templates/missing_connection.php
+END

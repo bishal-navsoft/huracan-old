@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/huracan/!svn/ver/225/lib/Cake/Test/test_app/Model/Datasource
+END
+Test2Source.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/huracan/!svn/ver/226/lib/Cake/Test/test_app/Model/Datasource/Test2Source.php
+END
+Test2OtherSource.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/huracan/!svn/ver/226/lib/Cake/Test/test_app/Model/Datasource/Test2OtherSource.php
+END

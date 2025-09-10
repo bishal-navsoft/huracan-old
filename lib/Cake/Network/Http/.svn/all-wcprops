@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/huracan/!svn/ver/106/lib/Cake/Network/Http
+END
+HttpResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/huracan/!svn/ver/108/lib/Cake/Network/Http/HttpResponse.php
+END
+DigestAuthentication.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/huracan/!svn/ver/108/lib/Cake/Network/Http/DigestAuthentication.php
+END
+BasicAuthentication.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/huracan/!svn/ver/108/lib/Cake/Network/Http/BasicAuthentication.php
+END
+HttpSocket.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/huracan/!svn/ver/108/lib/Cake/Network/Http/HttpSocket.php
+END
